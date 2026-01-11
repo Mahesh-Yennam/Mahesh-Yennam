@@ -2,6 +2,14 @@
 
 👋 Hi, I’m **Mahesh Yennam**, a **Node.js backend developer** focused on building scalable server-side applications, APIs, caching, queues, and CLI tools. This repository also includes JavaScript mini programs developed to strengthen core programming concepts.
 
+## 🔗 View My 
+
+- [Resume](https://mahesh-yennam.github.io/Resume/)
+
+- [Portfolio](https://mahesh-yennam.github.io/Portfolio/)
+
+- [LinkedIn](http://linkedin.com/in/mahesh-yennam)
+
 
 # 🚀 JavaScript & Node.js Projects
 
