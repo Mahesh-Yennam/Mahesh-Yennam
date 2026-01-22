@@ -49,7 +49,7 @@ Each project includes a **live demo hosted on GitHub Pages** and the **source co
 
 | Project Name          | Live Demo                                                      | Source Code                                                    |
 | --------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| Calculator            | [Live](https://mahesh-yennam.github.io/Calculator/)            | [Code](https://github.com/Mahesh-Yennam/Calculatorr)           |
+| Calculator            | [Live](https://mahesh-yennam.github.io/Calculator/)            | [Code](https://github.com/Mahesh-Yennam/Calculator)           |
 | Factorial of a Number | [Live](https://mahesh-yennam.github.io/Factorial-of-a-Number/) | [Code](https://github.com/Mahesh-Yennam/Factorial-of-a-Number) |
 | Palindrome Checker    | [Live](https://mahesh-yennam.github.io/Palindrome-Checker/)    | [Code](https://github.com/Mahesh-Yennam/Palindrome-Checker)    |
 | Prime Number Checker  | [Live](https://mahesh-yennam.github.io/Prime-Number-Checker/)  | [Code](https://github.com/Mahesh-Yennam/Prime-Number-Checker)  |
